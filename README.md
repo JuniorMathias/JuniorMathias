@@ -5,6 +5,8 @@
 
 (![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorMathias&show_icons=true&theme=dracula))
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorMathias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Tecnologias que eu uso no meu dia
 
