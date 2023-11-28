@@ -1,4 +1,4 @@
-### Olá! Eu sou o Junior Mathias Desenvolvedor Web🧑‍💻
+###"An accomplished professional with a year and a half of expertise in the field of development, I bring a robust skill set to the table. My proficiency spans across diverse technologies, including ReactJS, Ruby on Rails, SQL, Docassemble, HTML 5, CSS, and JavaScript. Fluent in four languages - Portuguese, English, Spanish, and intermediate French - I possess a multilingual edge that allows me to communicate effectively across various cultural and linguistic contexts. With a proven track record of tackling complex projects and a commitment to staying at the forefront of technological advancements, I am a dynamic and versatile developer poised to make a meaningful impact in any collaborative environment."🧑‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-mathias-7a8066193/)
 
